@@ -1,0 +1,56 @@
+Info: DeliveryProcess:Gerenciamento de Estoque Final: 625 mini seconds publishing element
+Info: DeliveryProcess:Gerenciamento de Estoque Final: 344 mini seconds publishing process specific layout data
+Info: Task:elicitar_requisitos: 15 mini seconds publishing element
+Info: TaskDescriptor:elicitar_requisitos: 16 mini seconds publishing element
+Info: Role:analista: 47 mini seconds publishing element
+Info: RoleDescriptor:analista: 16 mini seconds publishing element
+Info: Task:validar_requisitos: 15 mini seconds publishing element
+Info: TaskDescriptor:validar_requisitos: 16 mini seconds publishing element
+Info: Artifact:requisitos_funcionais_nao_funcionais: 15 mini seconds publishing element
+Info: WorkProductDescriptor:requisitos_funcionais_nao_funcionais: 32 mini seconds publishing element
+Info: Task:definir_viabilidade_do_projeto: 15 mini seconds publishing element
+Info: TaskDescriptor:definir_viabilidade_do_projeto: 0 mini seconds publishing element
+Info: Role:gerente: 94 mini seconds publishing element
+Info: RoleDescriptor:gerente: 63 mini seconds publishing element
+Info: Task:validar_viabilidade_do_projeto: 15 mini seconds publishing element
+Info: TaskDescriptor:validar_viabilidade_do_projeto: 16 mini seconds publishing element
+Info: Task:definir_escopo_do_projeto: 15 mini seconds publishing element
+Info: TaskDescriptor:definir_escopo_do_projeto: 16 mini seconds publishing element
+Info: Artifact:escopo_do_projote: 16 mini seconds publishing element
+Info: WorkProductDescriptor:escopo_do_projote: 15 mini seconds publishing element
+Info: Task:validar_escopo_do_projeto: 16 mini seconds publishing element
+Info: TaskDescriptor:validar_escopo_do_projeto: 15 mini seconds publishing element
+Info: Task:criar_estrutura_anlitica_do_projeto: 47 mini seconds publishing element
+Info: TaskDescriptor:criar_estrutura_anlitica_do_projeto: 16 mini seconds publishing element
+Info: Artifact:eap: 31 mini seconds publishing element
+Info: WorkProductDescriptor:eap: 16 mini seconds publishing element
+Info: Task:validar_estrutura_anlitica_do_projeto: 16 mini seconds publishing element
+Info: TaskDescriptor:validar_estrutura_anlitica_do_projeto: 15 mini seconds publishing element
+Info: Task:implementar: 16 mini seconds publishing element
+Info: TaskDescriptor:implementar: 15 mini seconds publishing element
+Info: Role:desenvolvedor: 47 mini seconds publishing element
+Info: RoleDescriptor:desenvolvedor: 16 mini seconds publishing element
+Info: Artifact:prototipo: 15 mini seconds publishing element
+Info: WorkProductDescriptor:prototipo: 63 mini seconds publishing element
+Info: Task:testar: 16 mini seconds publishing element
+Info: TaskDescriptor:testar: 15 mini seconds publishing element
+Info: Role:testador: 31 mini seconds publishing element
+Info: RoleDescriptor:testador: 16 mini seconds publishing element
+Info: Task:entregar_produto: 0 mini seconds publishing element
+Info: TaskDescriptor:entregar_produto: 16 mini seconds publishing element
+Info: Task:realizar_triagem: 15 mini seconds publishing element
+Info: TaskDescriptor:realizar_triagem: 16 mini seconds publishing element
+Info: Task:realizar_manuteno_e_melhorias: 0 mini seconds publishing element
+Info: TaskDescriptor:realizar_manuteno_e_melhorias: 0 mini seconds publishing element
+Info: Task:desligar_o_produto: 15 mini seconds publishing element
+Info: TaskDescriptor:desligar_o_produto: 16 mini seconds publishing element
+Info: Template:documento_de_requisitos: 62 mini seconds publishing element
+Info: Template:documento_de_escopo_de_projeto: 31 mini seconds publishing element
+Info: Template:modelo_de_construo_de_eap: 32 mini seconds publishing element
+Info: Template:modelo_de_prototipacao: 109 mini seconds publishing element
+Info: CustomCategory:Configuration free process view: 62 mini seconds publishing element
+Info: CustomCategory:Tasks: 16 mini seconds publishing element
+Info: CustomCategory:Roles: 15 mini seconds publishing element
+Info: CustomCategory:Work Products: 16 mini seconds publishing element
+Info: CustomCategory:Guidance: 31 mini seconds publishing element
+Info: CustomCategory:Processes: 16 mini seconds publishing element
