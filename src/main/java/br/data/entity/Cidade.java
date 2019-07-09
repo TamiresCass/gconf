@@ -63,7 +63,7 @@ public class Cidade implements Serializable {
         this.nome = nome;
     }
 
-    public String getLat() {
+    public double getLat() {
         return lat;
     }
 
@@ -71,7 +71,7 @@ public class Cidade implements Serializable {
         this.lat = lat;
     }
 
-    public String getLng() {
+    public double getLng() {
         return lng;
     }
 
