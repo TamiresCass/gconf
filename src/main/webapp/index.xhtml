@@ -10,6 +10,8 @@
         <h:form>
             <h:inputText value="#{jsfCidade.codigo}"/>
             <h:inputText value="#{jsfCidade.nome}" />
+            <h:inputText value="#{jsfCidade.lat}" />
+            <h:inputText value="#{jsfCidade.lng}" />
             <h:commandButton action="#{jsfCidade.persist()}" />
         </h:form>
         
@@ -18,8 +20,14 @@
             <h:column>
                 <h:outputText value="#{cid.codigo}" />
             </h:column>
-         <h:column>
+            <h:column>
                 <h:outputText value="#{cid.nome}" />
+            </h:column>
+            <h:column>
+                <h:outputText value="#{cid.lat}" />
+            </h:column>
+            <h:column>
+                <h:outputText value="#{cid.lng}" />
             </h:column>
         
             </h:dataTable>
@@ -36,6 +44,7 @@
                 <li>Tamires Cassiano</li>
             </ul>
         </div>
+        
     </h:body>
 </html>
 
